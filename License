@@ -1,0 +1,26 @@
+
+Replace `YOUR_USERNAME` and `YOUR_APP_URL` with your actual values.
+
+---
+
+## ✅ 3. **Deploy to Streamlit Cloud**
+
+1. Go to [Streamlit Cloud](https://streamlit.io/cloud).
+2. Click **"Deploy an app"**.
+3. Connect to your GitHub repo.
+4. Select:
+   - Repo: `color-detection-app`
+   - Branch: `main`
+   - Main file: `app.py`
+5. Click **Deploy**.
+
+Your app will go live at:  
+`https://<your-username>-color-detection-app.streamlit.app`
+
+---
+
+Would you like me to:
+- Help generate a `screenshot.png` for the README?
+- Or assist with GitHub or deployment errors if you hit any?
+
+Let me know what you'd like to do next.
